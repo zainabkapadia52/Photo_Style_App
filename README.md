@@ -1,5 +1,7 @@
 # Photo Style Consistency App
 
+[![**Open in Streamlit**](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://zainabkapadia52-photo-style.streamlit.app)
+
 ## Overview
 This web application applies histogram matching to transfer the tonal characteristics of a target (reference) image to one or more source images. By matching the brightness, contrast, and overall pixel intensity distribution, the app helps you achieve a consistent style across a collection of images—perfect for photographers, content creators, and designers.
 
