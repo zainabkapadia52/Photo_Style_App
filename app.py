@@ -94,7 +94,6 @@ st.markdown("""
 
 # Sidebar Controls
 with st.sidebar:
-    st.image("placeholder.jpg", width=100)  # Replace with your logo image
     st.title("Controls")
     blend = st.slider("Blending Factor (0.0 = original, 1.0 = full effect)", 0.0, 1.0, 1.0, step=0.1)
     st.markdown("---")
